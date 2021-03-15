@@ -4,11 +4,13 @@ Created with love by: `Thang`
 
 This is a simple Canvas-based game that requires a solid understanding of the principles of JavaScript programming to customize.
 
+View online at: [https://balder-the-hero.netlify.app/](https://balder-the-hero.netlify.app/)
+
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories.
 
-![](http://g.recordit.co/6Hjnk3nhUN.gif)
+<a href="https://balder-the-hero.netlify.app/"><img src="http://g.recordit.co/6Hjnk3nhUN.gif" height="400"></a>
 
 ## Required User Stories
 
