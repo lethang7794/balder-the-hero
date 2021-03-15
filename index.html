@@ -1,12 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="stylesheet" href="style.css" />
-		<title>Best Game Ever!</title>
-	</head>
-	<body>
-		<div id="canvas"></div>
-		<script src="game.js"></script>
-	</body>
+
+<head>
+  <meta charset="utf-8" />
+  <link rel="stylesheet" href="style.css" />
+  <title>Save the soldiers!</title>
+
+  <style>
+    button {
+      padding: 1rem;
+      font-size: large;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="canvas"></div>
+  <div style="text-align: center; margin-top: 1rem;">
+    <button id="start-button" onclick="startGame();">START</button>
+    <button id="restart-button" onclick="restartGame();" style="display: none;">Play Again?</button>
+    <button id="next-level-button" onclick="playNextLevel();" style="display: none;">Play Next Level</button>
+  </div>
+  <script src="game.js"></script>
+</body>
+
 </html>
