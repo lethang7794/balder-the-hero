@@ -10,7 +10,7 @@ View online at: [https://balder-the-hero.netlify.app/](https://balder-the-hero.n
 
 Here's a walkthrough of implemented user stories.
 
-<a href="https://balder-the-hero.netlify.app/"><img src="http://g.recordit.co/6Hjnk3nhUN.gif" height="400"></a>
+<a href="https://balder-the-hero.netlify.app/"><img src="http://g.recordit.co/6Hjnk3nhUN.gif" height="auto" width="400px"></a>
 
 ## Required User Stories
 
